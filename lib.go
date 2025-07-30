@@ -29,8 +29,8 @@ import (
 	"unsafe"
 
 	traceable_errors "github.com/go-errors/errors"
-	secp256k1 "github.com/uuosio/go-secp256k1"
-	"github.com/uuosio/go-uuoskit/uuoskit"
+	secp256k1 "github.com/NaturalZz/go-secp256k1"
+	"github.com/NaturalZz/go-uuoskit/uuoskit"
 )
 
 func renderData(data interface{}) *C.char {
