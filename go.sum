@@ -1,5 +1,5 @@
-github.com/NaturalZz/go-secp256k1 v0.1.3 h1:egT2J0YLqdIXs5BVbDI5MkkW8kCKkdVwt4/2kNZ8/BE=
-github.com/NaturalZz/go-secp256k1 v0.1.3/go.mod h1:Rp9n/Kh+mFN2BkdrHo8JnOZu8kbA0B7hu/FCJQVFDzI=
+github.com/NaturalZz/go-secp256k1 v0.1.4 h1:0QPxuxiR07evreA8RDu59u7ytTTtQfM7faf075YBK70=
+github.com/NaturalZz/go-secp256k1 v0.1.4/go.mod h1:Rp9n/Kh+mFN2BkdrHo8JnOZu8kbA0B7hu/FCJQVFDzI=
 github.com/akamensky/base58 v0.0.0-20210829145138-ce8bf8802e8f h1:z8MkSJCUyTmW5YQlxsMLBlwA7GmjxC7L4ooicxqnhz8=
 github.com/akamensky/base58 v0.0.0-20210829145138-ce8bf8802e8f/go.mod h1:UdUwYgAXBiL+kLfcqxoQJYkHA/vl937/PbFhZM34aZs=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
